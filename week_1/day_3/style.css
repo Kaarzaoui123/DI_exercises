@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    padding-top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maill {
+    text-align: center;
+}
+.features {
+padding-top: 100px;
+
+}
+footer{
+    background-color: black; 
+}
+.text-uppercase {
+    color: white;
+}
+.parah { 
+    color: white;
+}
+.container-fluid {
+    margin-bottom: 50px;
+}
